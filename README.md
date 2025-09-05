@@ -1,6 +1,5 @@
 # Olá, eu sou o Matheus Luiz! 👋
 
-![snake gif](https://github.com/MatheusLSiqueira/MatheusLSiqueira/blob/output/github-contribution-grid-snake.gif)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLSiqueira&layout=compact&theme=dracula" />
@@ -35,3 +34,6 @@ Meu Email: zangeefxt@gmail.com
 <p align="left">
 <a href="https://linkedin.com/in/matheus-luiz-08a1892a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-luiz" height="30" width="40" /></a>
 <a href="https://instagram.com/mathxtsiqueira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mathxtsiqueira" height="30" width="40" /></a>
+
+
+![snake gif](https://github.com/MatheusLSiqueira/MatheusLSiqueira/blob/output/github-contribution-grid-snake.gif)
