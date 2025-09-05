@@ -1,5 +1,7 @@
 # Olá, eu sou o Matheus Luiz! 👋
 
+![snake gif](https://github.com/MatheusLSiqueira/MatheusLSiqueira/blob/output/github-contribution-grid-snake.gif)
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLSiqueira&layout=compact&theme=dracula" />
   <img alt="Matheus's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=MatheusLSiqueira&show_icons=true&theme=dracula" />
