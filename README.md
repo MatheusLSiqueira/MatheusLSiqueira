@@ -32,7 +32,7 @@ Sinta-se à vontade para entrar em contato ou me seguir nas redes sociais!
 
 Meu Email: zangeefxt@gmail.com
 <p align="left">
-<a href="https://linkedin.com/in/matheus-luiz-08a1892a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-luiz" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/matheus-luiz-08a1892a9](https://www.linkedin.com/in/matheus-luiz-6b7b34382/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-luiz" height="30" width="40" /></a>
 <a href="https://instagram.com/mathxtsiqueira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mathxtsiqueira" height="30" width="40" /></a>
 
 
