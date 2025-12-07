@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFPR - Campus Paranaguá**.
+- 🎓 Sou Formado em **Análise e Desenvolvimento de Sistemas** no **IFPR - Campus Paranaguá**.
 - 🚀 Meu principal interesse é aprimorar minhas habilidades na criação de aplicações e websites modernos e eficientes.
 - 🌱 Atualmente estou focado em aprender mais sobre Docker, Python, PHP e JavaScript para ampliar meu conhecimento em desenvolvimento.
 
