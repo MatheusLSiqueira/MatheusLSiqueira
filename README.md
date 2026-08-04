@@ -24,8 +24,7 @@ Aqui estão algumas das tecnologias com as quais tenho mais familiaridade:
 
 ## 🔭 Em que estou trabalhando
 
-Atualmente, meu principal projeto é um Gerenciador de Relatorios que estou desenvolvendo para a Polícia Penal (DEPEN) . É um projeto desafiador e uma ótima oportunidade de aplicar meus conhecimentos em um cenário prático.
-
+Atualmente, meu principal projeto em que estou trabalhando é um hub central de governança chamado SIGMA, em colaboração com o Secretaria de Educação do Estado do Paraná.
 ## 📫 Conecte-se comigo
 
 Sinta-se à vontade para entrar em contato ou me seguir nas redes sociais!
