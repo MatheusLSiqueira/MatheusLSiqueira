@@ -2,13 +2,13 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MatheusLSiqueira&show_icons=true&theme=dracula&hide_border=true"
-    alt="GitHub Stats"
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLSiqueira&layout=compact&theme=dracula&hide_border=true"
-    alt="Top Languages"
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
     height="180"
   />
 </p>
