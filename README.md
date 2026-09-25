@@ -1,19 +1,5 @@
 # Olá, eu sou o Matheus Luiz! 👋
 
-<p align="center">
-  <img
-    src="./profile/top-langs.svg"
-    alt="Top Languages"
-    height="180"
-  />
-  <img
-    src="./profile/stats.svg"
-    alt="GitHub Stats"
-    height="180"
-  />
-</p>
-
-
 ## 👨‍💻 Sobre mim
 
 * 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pelo **IFPR — Campus Paranaguá**.
