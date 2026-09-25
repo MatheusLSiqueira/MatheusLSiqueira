@@ -30,8 +30,6 @@
 
 Atualmente, estou direcionando meus estudos e projetos para o ecossistema **.NET**, com foco em **C# e .NET 10**.
 
-Meu objetivo é desenvolver aplicações robustas e escaláveis, explorando principalmente:
-
 * 🔹 **C#**
 * 🔹 **.NET 10**
 * 🔹 **ASP.NET Core**
@@ -42,10 +40,6 @@ Meu objetivo é desenvolver aplicações robustas e escaláveis, explorando prin
 * 🔹 **Arquitetura e boas práticas de desenvolvimento**
 
 Também trabalho no **SIGMA**, um hub central de governança desenvolvido em colaboração com a **Secretaria de Estado da Educação do Paraná**.
-
-## 🚀 Projetos em destaque
-
-Em breve, esta seção será dedicada aos principais projetos desenvolvidos utilizando **C# e .NET**.
 
 ## 📫 Conecte-se comigo
 
