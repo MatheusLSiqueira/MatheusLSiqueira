@@ -1,7 +1,5 @@
 # Olá, eu sou o Matheus Luiz! 👋
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MatheusLSiqueira&theme=radical)
-
 ## 👨‍💻 Sobre mim
 
 * 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pelo **IFPR — Campus Paranaguá**.
