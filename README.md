@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Luiz! 👋
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=octocat&theme=radical)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MatheusLSiqueira&theme=radical)
 
 ## 👨‍💻 Sobre mim
 
