@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Luiz! 👋
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 * 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pelo **IFPR — Campus Paranaguá**.
 * 💻 Desenvolvedor com foco atual no ecossistema **.NET e C#**.
@@ -8,9 +8,9 @@
 * 🌱 Atualmente estou aprofundando meus conhecimentos em **C#, .NET 10, ASP.NET Core, APIs REST e Entity Framework Core**.
 * 🐳 Também tenho interesse em **Docker, bancos de dados e boas práticas de desenvolvimento de software**.
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
-### 💜 Foco atual
+###  Foco atual
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-## 🔭 Em que estou trabalhando
+##  Em que estou trabalhando
 
 Atualmente, estou direcionando meus estudos e projetos para o ecossistema **.NET**, com foco em **C# e .NET 10**.
 
@@ -41,7 +41,7 @@ Atualmente, estou direcionando meus estudos e projetos para o ecossistema **.NET
 
 Também trabalho no **SIGMA**, um hub central de governança desenvolvido em colaboração com a **Secretaria de Estado da Educação do Paraná**.
 
-## 📫 Conecte-se comigo
+##  Conecte-se comigo
 
 Sinta-se à vontade para entrar em contato comigo ou me acompanhar nas redes sociais!
 
